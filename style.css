@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+input {
+  padding: 10px;
+  font-size: 1em;
+  margin-bottom: 20px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
+#country-info {
+  margin-top: 20px;
+}
+#country-info img {
+  width: 200px;
+  margin: 20px 0;
+}
+#country-info h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+#country-info p {
+  font-size: 1.2em;
+  margin: 5px 0;
+}
